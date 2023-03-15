@@ -94,3 +94,19 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
+
+  metrics-github-comment-reactions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.README_ACCESS_TOKEN }}
+          output_action: gist
+          committer_gist: 4299c22ef019b0ee1c1495b6840eed47
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+
