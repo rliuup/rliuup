@@ -110,3 +110,16 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
+  metrics-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.README_ACCESS_TOKEN }}
+          output_action: gist
+          committer_gist: 4299c22ef019b0ee1c1495b6840eed47
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
