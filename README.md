@@ -65,10 +65,10 @@
   <img width="30%" src="profile-summary-card-output/nord_dark/3-stats.svg" />
 </p> -->
 
-<img width="100%" src="https://gist.githubusercontent.com/rliuup/4299c22ef019b0ee1c1495b6840eed47/raw/metrics.plugin.achievements.svg" />
 <img width="100%" src="https://gist.githubusercontent.com/rliuup/4299c22ef019b0ee1c1495b6840eed47/raw/metrics.plugin.isocalendar.fullyear.svg" />
 <img width="100%" src="https://gist.githubusercontent.com/rliuup/4299c22ef019b0ee1c1495b6840eed47/raw/github-metrics.svg" />
 <img width="100%" src="https://gist.githubusercontent.com/rliuup/4299c22ef019b0ee1c1495b6840eed47/raw/metrics.plugin.language.svg" />
+<img width="100%" src="https://gist.githubusercontent.com/rliuup/4299c22ef019b0ee1c1495b6840eed47/raw/metrics.plugin.calendar.full.svg" />
 
 
 
