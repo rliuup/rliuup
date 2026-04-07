@@ -44,6 +44,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
+          repositories_affiliations: owner, collaborator, organization_member
 
   metrics-github-comment-reactions:
     runs-on: ubuntu-latest
