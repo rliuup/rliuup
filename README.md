@@ -65,10 +65,7 @@
   <img width="30%" src="profile-summary-card-output/nord_dark/3-stats.svg" />
 </p> -->
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rliuup&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rliuup&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <img width="100%" src="https://gist.githubusercontent.com/rliuup/4299c22ef019b0ee1c1495b6840eed47/raw/github-metrics.svg" />
 <img width="100%" src="https://gist.githubusercontent.com/rliuup/4299c22ef019b0ee1c1495b6840eed47/raw/metrics.plugin.isocalendar.fullyear.svg" />
