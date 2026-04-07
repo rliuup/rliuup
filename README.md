@@ -1,4 +1,21 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+### hey, i'm ruilin
+
+based in bellevue, wa. working @ **UiPath**.
+currently living in the gap between *"AI can do this"*
+and *"AI does this reliably"* — it's a weird place to live.
+
+easily distracted by new things.
+not always a bad thing.
+
+---
+
+i write code.
+i also write prompts that write code.
+then i read the diff anyway.
+
+---
+
+*always in the middle of something.*
 
 <!--### I'm a Software Developer living in US and working at [UiPath](https://www.uipath.com/).-->
 
